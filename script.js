@@ -25,5 +25,5 @@ let nav = document.querySelector(".navbar");
 
     ScrollReveal().reveal('.banner_wrapper,.portfolio_wrapper',{origin:'top'});
     ScrollReveal().reveal('.service_wrapper,.blog_wrapper',{origin:'bottom'});
-    ScrollReveal().reveal('.about_wrapper,.img_fluid',{origin:'left'});
+    ScrollReveal().reveal('.about_wrapper,.img-fluid',{origin:'left'});
     ScrollReveal().reveal('.about_wrapper,.para',{origin:'right'});
